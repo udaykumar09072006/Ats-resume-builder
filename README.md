@@ -7,7 +7,7 @@ Create, edit, and save professional resumes with AI assistance, ATS scoring, PDF
 - 🔗 Live Project: https://ats-resume-builder-fjk7.vercel.app/
 
 ## 📸 Screenshot
-![Resume Builder Screenshot](./screenshot.png)
+[![Resume Builder Screenshot](https://github.com/udaykumar09072006/Ats-resume-builder/raw/main/screenshot.png)](https://github.com/udaykumar09072006/Ats-resume-builder/blob/main/screenshot.png)
 
 > Uday Kumar
 
@@ -108,9 +108,7 @@ npm run server
 
 ## 📬 Contact
 - Email: udaykumar0907200635@gmail.com
-- GitHub: https://github.com/udaykumar09072006
 - LinkedIn: https://www.linkedin.com/in/uday-kumar-08934628b/
-- Instagram: https://www.instagram.com/yadav_udayy001?igsh=a2d1ajV0M3VrOGll
 
 ---
 

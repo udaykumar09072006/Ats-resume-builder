@@ -86,22 +86,20 @@ const Footer = () => {
             audience.
           </p>
           <div className="flex items-center gap-4 mt-3">
-            <a href="https://animated-portfolio-pro.vercel.app" target="_blank" rel="noreferrer">
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-dribbble size-5 hover:text-green-500" aria-hidden="true">
-                <circle cx="12" cy="12" r="10"></circle>
-                <path d="M19.13 5.09C15.22 9.14 10 10.44 2.25 10.94"></path>
-                <path d="M21.75 12.84c-6.62-1.41-12.14 1-16.38 6.32"></path>
-                <path d="M8.56 2.75c4.37 6 6 9.42 8 17.72"></path>
+            <a href="https://github.com/udaykumar09072006?tab=repositories" target="_blank" rel="noreferrer">
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-github size-5 hover:text-green-500" aria-hidden="true">
+                <path d="M9 19c-5 1.5-5-2.5-7-3"></path>
+                <path d="M15 21v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V21"></path>
               </svg>
             </a>
-            <a href="https://www.linkedin.com/in/sonu-kumar-3234bb344" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/uday-kumar-08934628b/" target="_blank" rel="noreferrer">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-linkedin size-5 hover:text-green-500" aria-hidden="true">
                 <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
                 <rect width="4" height="12" x="2" y="9"></rect>
                 <circle cx="4" cy="4" r="2"></circle>
               </svg>
             </a>
-            <a href="https://www.instagram.com/sonu006__/?hl=en" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/yadav_udayy001?igsh=a2d1ajV0M3VrOGll" target="_blank" rel="noreferrer">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-instagram size-5 hover:text-green-500" aria-hidden="true">
                 <rect x="2" y="2" width="20" height="20" rx="5"></rect>
                 <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
@@ -109,7 +107,7 @@ const Footer = () => {
               </svg>
             </a>
           </div>
-          <p className="mt-3 text-center">© 2026 Resume Builder by sonu kumar</p>
+          <p className="mt-3 text-center">© 2026 Resume Builder by Uday Kumar</p>
         </div>
       </footer>
       <style>
