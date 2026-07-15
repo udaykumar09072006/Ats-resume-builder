@@ -1,18 +1,18 @@
 # Resume Builder
 
-**AI-powered resume builder** by Sonu Kumar  
+**AI-powered resume builder** by Uday Kumar  
 Create, edit, and save professional resumes with AI assistance, ATS scoring, PDF upload, and resume templates.
 
 ## 🚀 Live Demo
-- 🔗 Live Project: https://ats-resume-builder-git-main-sonu-tech006s-projects.vercel.app/
+- 🔗 Live Project: https://ats-resume-builder-fjk7.vercel.app/
 
 ## 📸 Screenshot
 ![Resume Builder Screenshot](./screenshot.png)
 
-> Sonu Kumar
+> Uday Kumar
 
 ## 🔧 Tech Stack
-[![React](https://camo.githubusercontent.com/27d6a3309ed5f3f77b44d6363633e947c37cd5470610cf3d264ce9dcde5a1049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)](https://react.dev/) [![NodeJS](https://camo.githubusercontent.com/ef2b7d0db96aa537dfc682bc36181a27a9152e23378bd002a4331e9e2b27da5b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)](https://nodejs.org/) [![Express.js](https://camo.githubusercontent.com/85f22a805fa4254023c1992fff9ca85de019179734b1fd1ab7961e1aaeac28d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642)](https://expressjs.com/) [![MongoDB](https://camo.githubusercontent.com/22b4be397ec78a05f56cdbf3190d59918ff84b4e1e867061f2aa7064f154c056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)](https://www.mongodb.com/) [![TailwindCSS](https://camo.githubusercontent.com/f733fddbc0e4ae906e07fe6cabf861b712934e376975847d7f9d4a40e9e635f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7461696c77696e646373732d2532333338423241432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 ## 📁 Project Structure
 - `client/` — React + Vite frontend
@@ -42,7 +42,7 @@ Create, edit, and save professional resumes with AI assistance, ATS scoring, PDF
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/sonu-tech006/Ats-resume-builder.git
+git clone https://github.com/udaykumar09072006/Ats-resume-builder.git
 cd Ats-resume-builder
 ```
 
@@ -67,7 +67,7 @@ OPENAI_MODEL="gemini-2.5-flash"
 ```
 Create `client/.env` with:
 ```bash
-VITE_BASE_URL=http://localhost:3000
+VITE_BASE_URL=https://ats-resume-builder1.onrender.com
 ```
 
 ### 4. Run locally
@@ -98,7 +98,7 @@ npm run server
 4. Set build command: `npm install && npm run build`
 5. Set output directory: `dist`
 6. Add environment variable:
-   - `VITE_BASE_URL=<your render backend URL>`
+   - `VITE_BASE_URL=https://ats-resume-builder1.onrender.com`
 7. Deploy.
 
 ## 📌 Notes
@@ -107,10 +107,12 @@ npm run server
 - If you change the deploy URLs, update `client/.env` and redeploy.
 
 ## 📬 Contact
-- Email: sonukr7435@gmail.com
-- GitHub: https://github.com/sonu-tech006
+- Email: udaykumar0907200635@gmail.com
+- GitHub: https://github.com/udaykumar09072006
+- LinkedIn: https://www.linkedin.com/in/uday-kumar-08934628b/
+- Instagram: https://www.instagram.com/yadav_udayy001?igsh=a2d1ajV0M3VrOGll
 
 ---
 
-Made with ❤️ by Sonu Kumar
+Made with ❤️ by Uday Kumar
 
